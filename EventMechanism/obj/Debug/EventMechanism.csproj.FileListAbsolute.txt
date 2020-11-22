@@ -1,0 +1,14 @@
+D:/B01_ROBOGAIT/3.TASARIM/B0112/5. YAZILIM/Study/EventMechanism/bin/Debug/EventMechanism.exe.config
+D:/B01_ROBOGAIT/3.TASARIM/B0112/5. YAZILIM/Study/EventMechanism/bin/Debug/EventMechanism.exe
+D:/B01_ROBOGAIT/3.TASARIM/B0112/5. YAZILIM/Study/EventMechanism/bin/Debug/EventMechanism.pdb
+D:/B01_ROBOGAIT/3.TASARIM/B0112/5. YAZILIM/Study/EventMechanism/obj/Debug/EventMechanism.csprojAssemblyReference.cache
+D:/B01_ROBOGAIT/3.TASARIM/B0112/5. YAZILIM/Study/EventMechanism/obj/Debug/EventMechanism.csproj.CoreCompileInputs.cache
+D:/B01_ROBOGAIT/3.TASARIM/B0112/5. YAZILIM/Study/EventMechanism/obj/Debug/EventMechanism.exe
+D:/B01_ROBOGAIT/3.TASARIM/B0112/5. YAZILIM/Study/EventMechanism/obj/Debug/EventMechanism.pdb
+/Users/tanerduzceer/Desktop/BAMA 22.11.2020/EventMechanism/bin/Debug/EventMechanism.exe.config
+/Users/tanerduzceer/Desktop/BAMA 22.11.2020/EventMechanism/bin/Debug/EventMechanism.exe
+/Users/tanerduzceer/Desktop/BAMA 22.11.2020/EventMechanism/bin/Debug/EventMechanism.pdb
+/Users/tanerduzceer/Desktop/BAMA 22.11.2020/EventMechanism/obj/Debug/EventMechanism.csprojAssemblyReference.cache
+/Users/tanerduzceer/Desktop/BAMA 22.11.2020/EventMechanism/obj/Debug/EventMechanism.csproj.CoreCompileInputs.cache
+/Users/tanerduzceer/Desktop/BAMA 22.11.2020/EventMechanism/obj/Debug/EventMechanism.exe
+/Users/tanerduzceer/Desktop/BAMA 22.11.2020/EventMechanism/obj/Debug/EventMechanism.pdb
